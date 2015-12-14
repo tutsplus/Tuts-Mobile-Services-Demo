@@ -1,0 +1,11 @@
+C:\Users\maska\documents\visual studio 2015\Projects\Tuts+ Mobile Service Demo\Tuts+ Mobile Service Demo\obj\Debug\Tuts+ Mobile Service Demo.csprojResolveAssemblyReference.cache
+C:\Users\maska\documents\visual studio 2015\Projects\Tuts+ Mobile Service Demo\Tuts+ Mobile Service Demo\obj\Debug\App.g.i.cs
+C:\Users\maska\documents\visual studio 2015\Projects\Tuts+ Mobile Service Demo\Tuts+ Mobile Service Demo\obj\Debug\App.g.cs
+C:\Users\maska\documents\visual studio 2015\Projects\Tuts+ Mobile Service Demo\Tuts+ Mobile Service Demo\obj\Debug\MainPage.g.i.cs
+C:\Users\maska\documents\visual studio 2015\Projects\Tuts+ Mobile Service Demo\Tuts+ Mobile Service Demo\obj\Debug\MainPage.g.cs
+C:\Users\maska\documents\visual studio 2015\Projects\Tuts+ Mobile Service Demo\Tuts+ Mobile Service Demo\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\maska\documents\visual studio 2015\Projects\Tuts+ Mobile Service Demo\Tuts+ Mobile Service Demo\obj\Debug\App.xaml
+C:\Users\maska\documents\visual studio 2015\Projects\Tuts+ Mobile Service Demo\Tuts+ Mobile Service Demo\obj\Debug\MainPage.xaml
+C:\Users\maska\documents\visual studio 2015\Projects\Tuts+ Mobile Service Demo\Tuts+ Mobile Service Demo\obj\Debug\App.xbf
+C:\Users\maska\documents\visual studio 2015\Projects\Tuts+ Mobile Service Demo\Tuts+ Mobile Service Demo\obj\Debug\MainPage.xbf
+C:\Users\maska\documents\visual studio 2015\Projects\Tuts+ Mobile Service Demo\Tuts+ Mobile Service Demo\obj\Debug\XamlSaveStateFile.xml
